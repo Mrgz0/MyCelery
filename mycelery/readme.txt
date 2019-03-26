@@ -1,4 +1,5 @@
-利用消息队列异步执行任务
+﻿利用消息队列异步执行任务
+python 3.6.5
 tornado
 rabbimq
 
